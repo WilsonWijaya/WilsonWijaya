@@ -90,8 +90,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wilsonwijaya&show_icons=true&locale=en&theme=gruvbox_light" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonwijaya&layout=compact&locale=en&hide=Jupyter%20Notebook&theme=gruvbox_light" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wilsonwijaya&line_height=20&show_icons=true&locale=en&theme=gruvbox_light" alt="GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonwijaya&layout=compact&langs_count=6&locale=en&hide=Jupyter%20Notebook&theme=gruvbox_light" alt="Most used languages" />
 </p>
 
 <p align="center">
