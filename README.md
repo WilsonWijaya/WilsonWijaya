@@ -1,5 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B57614,100:FABD2F&height=120&section=header" alt="" />
+
 <h1 align="center">Hello 👋, I'm Wilson Wijaya</h1>
-<h3 align="center">Software Developer from Indonesia</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B57614&center=true&vCenter=true&width=600&lines=Software+Developer+from+Indonesia;Front-End+%26+Back-End+Development;Always+Learning+New+Technologies" alt="Software Developer from Indonesia" />
+</p>
 
 <p align="center">
   Passionate and self-motivated software developer with professional experience in front-end and back-end development. Committed to building seamless web applications with a strong focus on user experience and functionality. Skilled in developing responsive interfaces and reliable back-end features. Continuously learning and adapting to emerging technologies to deliver impactful digital solutions.
@@ -98,3 +102,5 @@
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=wilsonwijaya&theme=gruvbox_light" alt="GitHub streak" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B57614,100:FABD2F&height=120&section=footer" alt="" />
